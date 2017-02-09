@@ -1,0 +1,27 @@
+{
+  "name": "miong-midtermexam-020917",
+  "version": "1.0.0",
+  "description": "My Midterm Exam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronchikyut/midtermexam.git"
+  },
+  "keywords": [
+    "node",
+    "git",
+    "npm",
+    "sublime",
+    "github",
+    "express"
+  ],
+  "author": "Ronchi Miong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronchikyut/midtermexam/issues"
+  },
+  "homepage": "https://github.com/Ronchikyut/midtermexam#readme"
+}
